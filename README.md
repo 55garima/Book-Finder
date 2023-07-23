@@ -17,7 +17,7 @@ So what are you waiting for? Search your favorite book right now!
 
 ## Demo
 
-https://55garima.github.io/Book-Finder/
+ https://55garima.github.io/Book-Finder/
 
 ## Features
 
